@@ -1,0 +1,12 @@
+# Anki collections, profiles, backups, and exports can contain private study data.
+*.anki2
+*.anki21
+*.anki2-wal
+*.anki2-shm
+*.colpkg
+*.apkg
+*.backup
+*.zip
+*.7z
+collection.media/
+Anki2/
